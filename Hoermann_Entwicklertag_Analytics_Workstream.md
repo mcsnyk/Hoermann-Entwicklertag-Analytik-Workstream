@@ -567,11 +567,11 @@ Jetzt erstellen wir ein Dashboard mit den transformierten Daten aus DataBrew.
 > [!TIP]
 > Bei korrekter Durchführung sehen Sie eine neue Analyse-Datei in der Liste im **Analyses** Tab.
 
-**Schritt 5: Erste Visualisierung**
+**Schritt 6: Erste Visualisierung**
 1. **Diagrammtyp**: Balkendiagramm auswählen
 2. **X-Achse**: `product_name` hinzufügen
-3. **Y-Achse**: `tolerance_range` hinzufügen
-4. **Titel hinzufügen**: "Toleranzbereiche nach Produkt"
+3. **Y-Achse**: `efficiency_ratio` hinzufügen
+4. **Titel hinzufügen**: "Effizienz-Verhältnis nach Produkt"
 
 > [!CAUTION]
 > **Q11**: "Welches Dateiformat wird für QuickSight Manifest-Dateien verwendet?"
