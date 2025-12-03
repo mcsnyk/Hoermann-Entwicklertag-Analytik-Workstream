@@ -3,6 +3,22 @@
 **Dauer**: 1,5-2 Stunden  
 **Ziel**: Schritt-für-Schritt Einführung in AWS Analytics mit Amazon Q Developer
 
+## Inhaltsverzeichnis
+
+- [Ihr Szenario](#ihr-szenario)
+- [Task 0: Arbeitsbereich vorbereiten](#task-0-arbeitsbereich-vorbereiten)
+- [Task 1: Amazon Q Developer Setup überprüfen](#task-1-amazon-q-developer-setup-überprüfen)
+- [Task 2: Amazon Q Developer kennenlernen](#task-2-amazon-q-developer-kennenlernen)
+- [Task 3: Zurück zum echten Problem - SQL reparieren](#task-3-zurück-zum-echten-problem---sql-reparieren)
+- [Task 4: Testdaten mit CSV erstellen](#task-4-testdaten-mit-csv-erstellen)
+- [Task 5: AWS-Verbindung einrichten](#task-5-aws-verbindung-einrichten)
+- [Task 6: S3-Bucket erstellen](#task-6-s3-bucket-erstellen)
+- [Task 7: CSV-Datei in S3-Bucket hochladen](#task-7-csv-datei-in-s3-bucket-hochladen)
+- [Task 8: CSV-Daten mit Athena abfragen](#task-8-csv-daten-mit-athena-abfragen)
+- [Task 9: Daten mit AWS Glue DataBrew vorbereiten](#task-9-daten-mit-aws-glue-databrew-vorbereiten)
+- [Task 10: Neue Spalte in DataBrew erstellen](#task-10-neue-spalte-in-databrew-erstellen)
+- [Task 11: Daten mit QuickSight visualisieren](#task-11-daten-mit-quicksight-visualisieren)
+
 ---
 
 ## Ihr Szenario
