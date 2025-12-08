@@ -30,7 +30,7 @@ Problem: Die IT-Abteilung ist diese Woche vollständig mit dem ERP-Update besch�
 Der Kunde wartet. Zeit zu zeigen, was Sie können!
 
 > [!CAUTION]
-> **Sie müssen diese Tasks befolgen**: Zu jedem Task gibt es eine Frage, die Sie korrekt beantworten müssen, um fortzufahren. Geben Sie Ihre Antworten hier ein: [Test System Link]
+> **Sie müssen diese Tasks befolgen**: Zu jedem Task gibt es eine Frage, die Sie korrekt beantworten müssen, um fortzufahren. Geben Sie Ihre Antworten hier ein: [Test System Link](https://tinyurl.com/hoermann-analytik)
 
 ---
 
