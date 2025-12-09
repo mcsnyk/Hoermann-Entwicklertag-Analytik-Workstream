@@ -90,7 +90,7 @@ Bevor wir mit den technischen Aufgaben beginnen, machen wir uns mit unserem wich
 
 **Fragen Sie Amazon Q Developer:**
 - "Erzähle mir einen deutschen Witz mit Q Developer"
-- "Wie lautet die Excel-Syntax mit deutschen Funktionsnamen, um den Durchschnitt von Zellen A1 bis A10 zu berechnen, wenn z.B. die Zelle eine gerade Zahl enthält?"
+- "Wie lautet die **Excel-Syntax** mit deutschen Funktionsnamen, um den Durchschnitt von Zellen A1 bis A10 zu berechnen, wenn z.B. die Zelle eine gerade Zahl enthält?"
 - "Was ist der Unterschied zwischen einer Excel-Datei und einer Datenbank?"
 
 ### Erwartetes Ergebnis
