@@ -86,7 +86,7 @@ Bevor wir mit den technischen Aufgaben beginnen, machen wir uns mit unserem wich
 - Stellen Sie sicher, dass ein **Claude Sonnet-Modell** ausgewählt ist (empfohlen für komplexere Aufgaben)
 
 > [!TIP]
-> **Q Developer (Sonnet und Haiku Modelle) versteht Deutsch** - Sie können alle Fragen auf Deutsch stellen.
+> **Q Developer (z.B. Opus, Sonnet und Haiku Modelle) versteht Deutsch** - Sie können alle Fragen auf Deutsch stellen.
 
 **Fragen Sie Amazon Q Developer:**
 - "Erzähle mir einen deutschen Witz mit Q Developer"
